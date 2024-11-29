@@ -1,0 +1,7 @@
+name: ElytraDele
+version: '1.0'
+api-version: "1.21"
+main: me.Kirspipirs.elytraDele.ElytraDele
+author: Kirspipirs
+website: https://github.com/Kirspirs
+description: The plugin prohibits the use of elytra
